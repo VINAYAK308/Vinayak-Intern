@@ -150,7 +150,7 @@ import AdminDashboard from './components/pages/admin-dashboard';
 import SuperadminDashboard from './components/pages/Superadmin-dashboard';
 // import Menu from "./admin-dashboard.jsx";
 import UserManagement from "./components/pages/user-management";
-import CourseManagement from "./components/pages/course-Management";
+import CourseManagement from "./components/pages/course-management";
 import CourseAssignment from "./components/pages/course-assignment";
 
 
